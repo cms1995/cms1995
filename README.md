@@ -1,4 +1,4 @@
-# 👋 Buenos días. Mi nombre es Carlos Manuel Sosa. Me dedico al Frontend Development y al diseño web
+# 👋 Buenos días. Mi nombre es Carlos Manuel Sosa.  Me dedico al Frontend Development y al diseño web
 
 
 # `Skills:`
@@ -10,5 +10,5 @@ Design🔮📽: [![figma](https://camo.githubusercontent.com/5078ca2c373775a02f9
 Version Control Systems🖼🧸: [![github](https://camo.githubusercontent.com/84921670417bf357787265bf1187674361af781b1b6536248014c6f261eaee43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333138313731372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562 "github")](https://camo.githubusercontent.com/84921670417bf357787265bf1187674361af781b1b6536248014c6f261eaee43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333138313731372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562 "github")  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="drawing" height="30" width="33"/> 
 
 
-Languages👽🚩: Spanish English Portuguese
+Languages👽🚩:Spanish <img src="https://twemoji.maxcdn.com/2/72x72/1f1e6-1f1f7.png" alt="drawing" height="29" width="32">  English   <img src="https://twemoji.maxcdn.com/2/72x72/1f1fa-1f1f8.png" alt="drawing" height="29" width="32">  Portuguese <img src="https://twemoji.maxcdn.com/2/72x72/1f1e7-1f1f7.png" alt="drawing" height="29" width="32"> 
 
